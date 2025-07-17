@@ -1,0 +1,13 @@
+name: VidasPlugin
+main: vidaplugin.VidasPlugin
+version: 1.0
+api-version: 1.20
+
+commands:
+  vidas:
+    description: Sistema de controle de vidas dos jogadores
+    usage: /vidas
+    aliases: [vida]
+  vidastotem:
+    description: Dá um Totem da Redenção
+    usage: /vidastotem
