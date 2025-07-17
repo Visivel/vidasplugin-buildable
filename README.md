@@ -1,14 +1,17 @@
 # vidasplugin-buildable
 esse plugin foi originalmente """""feito""""" pelo EnzoDadam (Enz0oMC), conhecido tambem como ChatGPT, eu so obtive ele e decompilei.\
-So mais um aviso, o plugin contem um exploit ja identificado usando o [UI Utils](https://github.com/Coderx-Gamer/ui-utils/releases) e o Totem da Redenção, so com 1 totem é possivel renascer todos (nao vou gastar meu tempo arrumando isso lol)\
+
+So mais um aviso, o plugin contem um exploit ja identificado usando o [UI Utils](https://github.com/Coderx-Gamer/ui-utils/releases) e o Totem da Redenção, so com 1 totem é possivel renascer todos (nao vou gastar meu tempo arrumando isso lol)
 
 ## Buildando voce mesmo
 
 Pra buildar basta dar:
-```git clone https://github.com/Visivel/vidasplugin-buildable.git```\
-```cd vidasplugin-buildable```\
-```se quiser alterar alguma coisa (tipo a versao), atualize as dependencias do pom.xml```\
-```mvn clean package```
+```bash
+git clone https://github.com/Visivel/vidasplugin-buildable.git
+cd vidasplugin-buildable
+se quiser alterar alguma coisa (tipo a versao), atualize a versão e/ou dependencias do pom.xml se necessario
+mvn clean package
+```
 
 ## Documentação do Plugin (Como usar)
 ft Deepseek, não vou gastar tempo documentando perca de tempo (plugin de Minecraft feito por gpt)
@@ -40,7 +43,7 @@ ft Deepseek, não vou gastar tempo documentando perca de tempo (plugin de Minecr
   - Matar jogadores quando já se tem 10 vidas
 - **Uso**: Clique direito para ganhar +1 vida (até o máximo de 10)
 - **Receita de crafting**:
-![Craft Maça](main/imagens/prim.png)
+![Craft Maça](imagens/prim.png)
 
 ### Totem da Redenção
 - **Como obter**: 
@@ -48,7 +51,7 @@ ft Deepseek, não vou gastar tempo documentando perca de tempo (plugin de Minecr
 - Crafting (receita abaixo)
 - **Uso**: Clique direito para abrir menu de jogadores banidos e reviver um deles (consome o totem)
 - **Receita de crafting**:
-![Craft Totem](main/imagens/sec.png)
+![Craft Totem](imagens/sec.png)
 
 ## ⚙️ Mecânicas do Sistema
 
