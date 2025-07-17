@@ -5,9 +5,9 @@ So mais um aviso, o plugin contem um exploit ja identificado usando o [UI Utils]
 ## Buildando voce mesmo
 
 Pra buildar basta dar:
-```git clone https://github.com/Visivel/vidasplugin-buildable.git```
-```cd vidasplugin-buildable```
-```se quiser alterar alguma coisa (tipo a versao), atualize as dependencias do pom.xml```
+```git clone https://github.com/Visivel/vidasplugin-buildable.git```\
+```cd vidasplugin-buildable```\
+```se quiser alterar alguma coisa (tipo a versao), atualize as dependencias do pom.xml```\
 ```mvn clean package```
 
 ## Documentação do Plugin (Como usar)
